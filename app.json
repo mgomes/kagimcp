@@ -1,0 +1,19 @@
+{
+  "name": "kagimcp",
+  "description": "MCP server for Kagi.",
+  "logo": "https://kagi.com/asset/v2/kagi_assets/logos/yellow_3.png?v=08d0962703715c6f55b459d967ea2dab1eb596a0",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {},
+  "formation": {
+    "web": {
+      "quantity": 0
+    }
+  },
+  "addons": [],
+  "scripts": {},
+  "stack": "heroku-24"
+}
