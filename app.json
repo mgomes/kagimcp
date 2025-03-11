@@ -10,7 +10,8 @@
   "env": {},
   "formation": {
     "web": {
-      "quantity": 0
+      "quantity": 0,
+      "size": "standard-1x"
     }
   },
   "addons": [],
